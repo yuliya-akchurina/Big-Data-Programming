@@ -1,5 +1,4 @@
-# Big-Data-Programming
-## Big Data Programming Projects
+# Big-Data-Programming Projects 
 
 ### Lab 1 - MapReduce on Hadoop with Python.
 
